@@ -8,3 +8,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima :
 * NQ service, [cek.github](https://github.com/NaufalQueensha).
+* NQ pro, [my-profil](https://github.com/NaufalQueensha).
